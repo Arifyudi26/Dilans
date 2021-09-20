@@ -1,0 +1,12 @@
+.bdr-left{
+	border-left:1px solid black;
+}
+.bdr-right{
+	border-right:1px solid black;
+}
+.bdr-top{
+	border-top:1px solid black;
+}
+.bdr-bottom{
+	border-bottom:1px solid black;
+}
